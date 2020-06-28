@@ -7,8 +7,6 @@
     <div>这是我的第一个vue项目</div>
     <div>这是我的第一个vue项目</div>
     <div>这是我的第一个vue项目</div>
-
-    <div>项目内容</div>
   </div>
 </template>
 
